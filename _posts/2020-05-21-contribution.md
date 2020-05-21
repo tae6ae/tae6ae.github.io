@@ -11,7 +11,9 @@ categories: project contribute
 
 오류가 발생한 명령어를 파싱한 후 적절한 명령어로 찾는 작업이 필요하다. rules폴더 내에는 어떤 명령어에 적절한지 비교하는 함수들이 존재한다. 현재      apt, brew, git과 같은 명령어를 지원한다. 아직 gcc와 같은 명령어는 지원하지 않으므로 이러한 명령어들을 추가하여 기능을 개선할 수 있을 것이다.
 
-   
+![3](https://user-images.githubusercontent.com/49182823/82582061-6ea28600-9bcc-11ea-9240-381b35bbb2ec.jpg)
+![4](https://user-images.githubusercontent.com/49182823/82582063-6fd3b300-9bcc-11ea-99f9-189f3a027f2a.jpg)
+
 
 ### 2. 현재 프로젝트에 존재하는 각종 버그 이슈들을 해결한다.
    
